@@ -5,3 +5,5 @@ xarray==2024.6.0
 cartopy==0.23.0
 plotly==5.23.0
 scipy==1.14.0
+netCDF==1.7.1
+noaa_ftp==0.1.11
